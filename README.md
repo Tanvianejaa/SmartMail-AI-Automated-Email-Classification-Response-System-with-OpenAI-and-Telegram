@@ -33,13 +33,13 @@ Gmail Trigger → Gemini Classifier → Category Routing → OpenAI Response Gen
 
 ---
 
-### 🤖 2. Email Classification Output
+### 🤖 2. Telegram Notification Output
 
 ![Classification](assets/screenshots/workflow3out.jpg)
 
 ---
 
-### 📲 3. Telegram Notification Output
+### 📲 3. Email Classification Output
 
 ![Telegram](assets/screenshots/workflow3out2.png)
 
