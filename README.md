@@ -25,6 +25,27 @@ Gmail Trigger → Gemini Classifier → Category Routing → OpenAI Response Gen
 
 ---
 
+## 📸 Workflow Screenshots
+
+### ⚙️ 1. SmartMail Workflow Design
+
+![Workflow](assets/screenshots/workflow3.png)
+
+---
+
+### 🤖 2. Email Classification Output
+
+![Classification](assets/screenshots/workflow3out.jpg)
+
+---
+
+### 📲 3. Telegram Notification Output
+
+![Telegram](assets/screenshots/workflow3out2.png)
+
+
+---
+
 ## 🔄 Workflow Breakdown
 
 ---
@@ -86,25 +107,6 @@ OpenAI Node → Telegram Node
 ### 🎯 Purpose
 Provides real-time visibility and quick response awareness outside Gmail.
 
----
-
-## 📸 Workflow Screenshots
-
-### ⚙️ 1. SmartMail Workflow Design
-
-![Workflow](assets/screenshots/workflow3.png)
-
----
-
-### 🤖 2. Email Classification Output
-
-![Classification](assets/screenshots/workflow3out.png)
-
----
-
-### 📲 3. Telegram Notification Output
-
-![Telegram](assets/screenshots/workflow3out2.png)
 
 ---
 
